@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">fragmenttest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="action_settings_menu1">Item1</string>
+	<string name="action_settings_menu2">Item2</string>
+	<string name="action_settings_menu3">Item3</string>
+	<string name="action_settings_menu4">Item4</string>
+	<string name="action_settings_menu5">Item5</string>
+</resources>
